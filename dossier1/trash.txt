@@ -1,3 +1,4 @@
+RonanG
 EvaD
 guillaumeL
 YannickD
@@ -7,3 +8,5 @@ romainR
 thomasL
 antoineC
 auroreD
+fabienB
+
